@@ -47,5 +47,9 @@ console.log("gradeB", gradeB)
 console.log("gradeC", gradeC)
 console.log("gradeD", gradeD)
 console.log("gradeF", gradeF)
+<<<<<<< HEAD
+currentScore.innerHTML
+=======
 currentScore.innerHTM
+>>>>>>> master
 
